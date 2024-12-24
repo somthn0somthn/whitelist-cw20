@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CosmWasm Starter Pack
 
 This is a template to build smart contracts in Rust to run inside a
@@ -83,3 +84,7 @@ that have been published.
 Please replace this README file with information about your specific project. You can keep
 the `Developing.md` and `Publishing.md` files as useful references, but please set some
 proper description in the README.
+=======
+# whitelist-cw20
+cw20 factory with whitelist
+>>>>>>> bc16641b1a7ec7e5dd6c151586541c9e02b7fc6e
